@@ -5,7 +5,9 @@ Hiring Decision Prediction Project
 - Dataset Name: Recruitment Data – Predicting Hiring Decisions
 - Source: Kaggle (Rabie El Kharoua)
 - File Format: CSV
-
+- Number of Rows: 1500
+- Number of Columns: 11
+  
 ## Machine Learning Problem
 This project focuses on a Binary Classification problem.
 
