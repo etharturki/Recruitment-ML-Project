@@ -1,4 +1,4 @@
-# ARTI308 - Lab 2
+# Recruitment-ML-Project
 Hiring Decision Prediction Project
 
 ## Dataset Information
